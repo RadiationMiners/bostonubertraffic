@@ -16,7 +16,7 @@ Yes, it is a positive correlation for bus routes and uber rides.
 - What are the most influential weather patterns affecting bus travel time?  
 We don't know. Our regression algorithms failed to create an accurate predictor for percentage of buses on time given weather data.  
 - Based on the delay from weather patterns, how much extra travel time should a Boston commuter account for?  
-
+We were unable to answer this as well due to the regression algorithm failure. 
 
 # Application of this knowledge
 Uber drivers could use the MTBA real-time data streams to try to forecast what their delays might be and plan their routes accordingly
