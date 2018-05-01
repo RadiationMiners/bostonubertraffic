@@ -24,7 +24,7 @@ Uber drivers could use the MTBA real-time data streams to try to forecast what t
 We could look for further data to incorporate into building a predictive model for percentage of buses on time
 
 # Link to the video demonstration
-https://github.com/RadiationMiners/bostonubertraffic/blob/master/09_BostonUber_Part5.mp4
+https://drive.google.com/file/d/1H8wA2UIywPcSQc73qefP-CJBq5NIfxW3/view?usp=sharing
 
 # Link to your final project paper
 https://github.com/RadiationMiners/bostonubertraffic/blob/master/09_BostonUber_Part4.pdf
