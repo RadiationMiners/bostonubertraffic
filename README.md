@@ -12,7 +12,9 @@ Ride-sharing on Uber and Lyft has exploded in popularity in the past decade. The
 
 # Summary of the question(s) sought and the answers
 - Do delays in public transit times correlate with increased travel times for uber?  
+Yes, it is a positive correlation for bus routes and uber rides.  
 - What are the most influential weather patterns affecting bus travel time?  
+We don't know. Our regression algorithms failed to create an accurate predictor for percentage of buses on time given weather data.  
 - Based on the delay from weather patterns, how much extra travel time should a Boston commuter account for?  
 
 
