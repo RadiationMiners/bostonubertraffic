@@ -19,8 +19,15 @@ We don't know. Our regression algorithms failed to create an accurate predictor 
 
 
 # Application of this knowledge
+Uber drivers could use the MTBA real-time data streams to try to forecast what their delays might be and plan their routes accordingly
+
+We could look for further data to incorporate into building a predictive model for percentage of buses on time
 
 # Link to the video demonstration
+TODO
 
 # Link to your final project paper
+https://github.com/RadiationMiners/bostonubertraffic/blob/master/09_BostonUber_Part4.pdf
 
+(View-Only link to Google Doc)
+https://docs.google.com/document/d/1J2WKNe6biJlcB8gUCP5kc_z4dGGvhAotPs_rCJMkZKo/edit?usp=sharing
